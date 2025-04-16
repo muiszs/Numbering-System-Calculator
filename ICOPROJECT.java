@@ -13,8 +13,7 @@ import java.util.Scanner;
  *
  * @author Asus
  */
-// 1. NAME : AHMAD MUIZZUDDIN BIN AHMAD RIDZUAN,        MATRIC NO : 2211679
-// 2. NAME : AHMAD NUR ZAFRAN SHAH BIN AHMAD SHAHRIZAL, MATRIC NO : 2213645
+// 1. NAME : AHMAD MUIZZUDDIN BIN AHMAD RIDZUAN,        MATRIC NO : 221****
 public class ICOPROJECT {
     public static void main(String[] args) throws IOException {
         
